@@ -1,0 +1,26 @@
+.container {
+    width: 400px;
+    height: 200px;
+    background-color: grey;
+    display: flex;
+}
+
+.blue {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    
+}
+
+.yellow {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(233, 219, 19);
+    position: relative;
+    margin-left: -140px;
+    margin-top: 20px;
+
+}

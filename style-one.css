@@ -1,0 +1,54 @@
+
+.first {
+    color: black;
+    border: 3px solid green;
+    background-color: lightgreen;
+    height: 300px;
+    width: 800px;
+    text-align: center;
+    padding-top: 250px;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 25px; 
+}
+.container {
+    display: flex; 
+    border: 2px solid black; 
+    width: 300px; 
+}
+      
+.blue {
+    background-color: blue;
+    width: 100px;
+    height: 150px;
+}
+.white {
+    background-color: white;
+    width: 100px;
+    height: 150px;
+}
+.red {
+    background-color: red;
+    width: 100px;
+    height: 150px;
+}
+
+.class-blue {
+    color:blue;
+}
+ul li {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.white-1 {
+    color: white;
+    background-color: rgb(221, 96, 116);
+
+}
+
+.light-blue {
+    background-color: lightblue;
+    margin: 30px;
+    padding: 50px;
+}
